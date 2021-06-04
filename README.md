@@ -1,7 +1,7 @@
 ### Hi there 👋
 "Programming is a skill best acquired by practice and example rather than from books".
 Let me get started,
-Well,This is Krishna Kumar Shah,The Ambidextrous,I'm very dedicated for my stuff.My stuff are none others than coding.
+Well,This is Krishna Kumar Shah,The Ambidextrous,I'm very dedicated for my stuff.My stuff are none others than coding.![double](https://user-images.githubusercontent.com/83068846/120825755-6ddf5680-c579-11eb-919a-a44e4a1ec428.jpg)
 Besides academic curriculum,I do public speaking and problem solving 
 Here are some ideas to get you started:
 
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 
 
+![krishna4](https://user-images.githubusercontent.com/83068846/120824314-0e347b80-c578-11eb-8dc4-dc2e92c5f73e.jpg)
